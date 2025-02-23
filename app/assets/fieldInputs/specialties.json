@@ -1,0 +1,21 @@
+[
+    { "label": "Anesthesiology", "value": "Anesthesiology" },
+    { "label": "Dermatology", "value": "Dermatology" },
+    { "label": "Emergency Medicine", "value": "Emergency Medicine" },
+    { "label": "Family Medicine", "value": "Family Medicine" },
+    { "label": "General Surgery", "value": "General Surgery" },
+    { "label": "Infectious Disease (Internal Medicine)", "value": "Infectious Disease (Internal Medicine)" },
+    { "label": "Internal Medicine", "value": "Internal Medicine" },
+    { "label": "Neurology", "value": "Neurology" },
+    { "label": "Neurosurgery", "value": "Neurosurgery" },
+    { "label": "Obstetrics & Gynecology (OB/GYN)", "value": "Obstetrics & Gynecology (OB/GYN)" },
+    { "label": "Ophthalmology", "value": "Ophthalmology" },
+    { "label": "Orthopedic Surgery", "value": "Orthopedic Surgery" },
+    { "label": "Pathology", "value": "Pathology" },
+    { "label": "Pediatrics", "value": "Pediatrics" },
+    { "label": "Physical Medicine & Rehabilitation (PM&R)", "value": "Physical Medicine & Rehabilitation (PM&R)" },
+    { "label": "Plastic Surgery", "value": "Plastic Surgery" },
+    { "label": "Psychiatry", "value": "Psychiatry" },
+    { "label": "Radiology", "value": "Radiology" }
+  ]
+  

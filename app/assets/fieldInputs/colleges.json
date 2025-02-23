@@ -1,0 +1,2458 @@
+[
+  {
+    "label": "Alabama A & M University",
+    "value": "Alabama A & M University"
+  },
+  {
+    "label": "University of Alabama at Birmingham",
+    "value": "University of Alabama at Birmingham"
+  },
+  {
+    "label": "Amridge University",
+    "value": "Amridge University"
+  },
+  {
+    "label": "University of Alabama in Huntsville",
+    "value": "University of Alabama in Huntsville"
+  },
+  {
+    "label": "Alabama State University",
+    "value": "Alabama State University"
+  },
+  {
+    "label": "University of Alabama System Office",
+    "value": "University of Alabama System Office"
+  },
+  {
+    "label": "The University of Alabama",
+    "value": "The University of Alabama"
+  },
+  {
+    "label": "Central Alabama Community College",
+    "value": "Central Alabama Community College"
+  },
+  {
+    "label": "Athens State University",
+    "value": "Athens State University"
+  },
+  {
+    "label": "Auburn University at Montgomery",
+    "value": "Auburn University at Montgomery"
+  },
+  {
+    "label": "Auburn University",
+    "value": "Auburn University"
+  },
+  {
+    "label": "Birmingham Southern College",
+    "value": "Birmingham Southern College"
+  },
+  {
+    "label": "Chattahoochee Valley Community College",
+    "value": "Chattahoochee Valley Community College"
+  },
+  {
+    "label": "Concordia College Alabama",
+    "value": "Concordia College Alabama"
+  },
+  {
+    "label": "South University-Montgomery",
+    "value": "South University-Montgomery"
+  },
+  {
+    "label": "Enterprise State Community College",
+    "value": "Enterprise State Community College"
+  },
+  {
+    "label": "James H Faulkner State Community College",
+    "value": "James H Faulkner State Community College"
+  },
+  {
+    "label": "Faulkner University",
+    "value": "Faulkner University"
+  },
+  {
+    "label": "Gadsden State Community College",
+    "value": "Gadsden State Community College"
+  },
+  {
+    "label": "New Beginning College of Cosmetology",
+    "value": "New Beginning College of Cosmetology"
+  },
+  {
+    "label": "George C Wallace State Community College-Dothan",
+    "value": "George C Wallace State Community College-Dothan"
+  },
+  {
+    "label": "George C Wallace State Community College-Hanceville",
+    "value": "George C Wallace State Community College-Hanceville"
+  },
+  {
+    "label": "George C Wallace State Community College-Selma",
+    "value": "George C Wallace State Community College-Selma"
+  },
+  {
+    "label": "Herzing University-Birmingham",
+    "value": "Herzing University-Birmingham"
+  },
+  {
+    "label": "Huntingdon College",
+    "value": "Huntingdon College"
+  },
+  {
+    "label": "Heritage Christian University",
+    "value": "Heritage Christian University"
+  },
+  {
+    "label": "J F Drake State Community and Technical College",
+    "value": "J F Drake State Community and Technical College"
+  },
+  {
+    "label": "J F Ingram State Technical College",
+    "value": "J F Ingram State Technical College"
+  },
+  {
+    "label": "Jacksonville State University",
+    "value": "Jacksonville State University"
+  },
+  {
+    "label": "Jefferson Davis Community College",
+    "value": "Jefferson Davis Community College"
+  },
+  {
+    "label": "Jefferson State Community College",
+    "value": "Jefferson State Community College"
+  },
+  {
+    "label": "John C Calhoun State Community College",
+    "value": "John C Calhoun State Community College"
+  },
+  {
+    "label": "Judson College",
+    "value": "Judson College"
+  },
+  {
+    "label": "Lawson State Community College-Birmingham Campus",
+    "value": "Lawson State Community College-Birmingham Campus"
+  },
+  {
+    "label": "University of West Alabama",
+    "value": "University of West Alabama"
+  },
+  {
+    "label": "Lurleen B Wallace Community College",
+    "value": "Lurleen B Wallace Community College"
+  },
+  {
+    "label": "Marion Military Institute",
+    "value": "Marion Military Institute"
+  },
+  {
+    "label": "Miles College",
+    "value": "Miles College"
+  },
+  {
+    "label": "University of Mobile",
+    "value": "University of Mobile"
+  },
+  {
+    "label": "University of Montevallo",
+    "value": "University of Montevallo"
+  },
+  {
+    "label": "Northwest-Shoals Community College",
+    "value": "Northwest-Shoals Community College"
+  },
+  {
+    "label": "University of North Alabama",
+    "value": "University of North Alabama"
+  },
+  {
+    "label": "Northeast Alabama Community College",
+    "value": "Northeast Alabama Community College"
+  },
+  {
+    "label": "Oakwood University",
+    "value": "Oakwood University"
+  },
+  {
+    "label": "Alabama Southern Community College",
+    "value": "Alabama Southern Community College"
+  },
+  {
+    "label": "Prince Institute-Southeast",
+    "value": "Prince Institute-Southeast"
+  },
+  {
+    "label": "Reid State Technical College",
+    "value": "Reid State Technical College"
+  },
+  {
+    "label": "Bishop State Community College",
+    "value": "Bishop State Community College"
+  },
+  {
+    "label": "Samford University",
+    "value": "Samford University"
+  },
+  {
+    "label": "Selma University",
+    "value": "Selma University"
+  },
+  {
+    "label": "Shelton State Community College",
+    "value": "Shelton State Community College"
+  },
+  {
+    "label": "Snead State Community College",
+    "value": "Snead State Community College"
+  },
+  {
+    "label": "University of South Alabama",
+    "value": "University of South Alabama"
+  },
+  {
+    "label": "Spring Hill College",
+    "value": "Spring Hill College"
+  },
+  {
+    "label": "Southeastern Bible College",
+    "value": "Southeastern Bible College"
+  },
+  {
+    "label": "Stillman College",
+    "value": "Stillman College"
+  },
+  {
+    "label": "Talladega College",
+    "value": "Talladega College"
+  },
+  {
+    "label": "H Councill Trenholm State Technical College",
+    "value": "H Councill Trenholm State Technical College"
+  },
+  {
+    "label": "Troy University",
+    "value": "Troy University"
+  },
+  {
+    "label": "Tuskegee University",
+    "value": "Tuskegee University"
+  },
+  {
+    "label": "United States Sports Academy",
+    "value": "United States Sports Academy"
+  },
+  {
+    "label": "Bevill State Community College",
+    "value": "Bevill State Community College"
+  },
+  {
+    "label": "University of Alaska Anchorage",
+    "value": "University of Alaska Anchorage"
+  },
+  {
+    "label": "Alaska Bible College",
+    "value": "Alaska Bible College"
+  },
+  {
+    "label": "University of Alaska Fairbanks",
+    "value": "University of Alaska Fairbanks"
+  },
+  {
+    "label": "University of Alaska Southeast",
+    "value": "University of Alaska Southeast"
+  },
+  {
+    "label": "Alaska Pacific University",
+    "value": "Alaska Pacific University"
+  },
+  {
+    "label": "AVTEC-Alaska's Institute of Technology",
+    "value": "AVTEC-Alaska's Institute of Technology"
+  },
+  {
+    "label": "Charter College-Anchorage",
+    "value": "Charter College-Anchorage"
+  },
+  {
+    "label": "Prince William Sound Community College",
+    "value": "Prince William Sound Community College"
+  },
+  {
+    "label": "Alaska Career College",
+    "value": "Alaska Career College"
+  },
+  {
+    "label": "University of Alaska System of Higher Education",
+    "value": "University of Alaska System of Higher Education"
+  },
+  {
+    "label": "Everest College-Phoenix",
+    "value": "Everest College-Phoenix"
+  },
+  {
+    "label": "Collins College",
+    "value": "Collins College"
+  },
+  {
+    "label": "Empire Beauty School-Paradise Valley",
+    "value": "Empire Beauty School-Paradise Valley"
+  },
+  {
+    "label": "Empire Beauty School-Tucson",
+    "value": "Empire Beauty School-Tucson"
+  },
+  {
+    "label": "Thunderbird School of Global Management",
+    "value": "Thunderbird School of Global Management"
+  },
+  {
+    "label": "American Indian College of the Assemblies of God Inc",
+    "value": "American Indian College of the Assemblies of God Inc"
+  },
+  {
+    "label": "American Institute of Technology",
+    "value": "American Institute of Technology"
+  },
+  {
+    "label": "Carrington College-Phoenix",
+    "value": "Carrington College-Phoenix"
+  },
+  {
+    "label": "Carrington College-Mesa",
+    "value": "Carrington College-Mesa"
+  },
+  {
+    "label": "Carrington College-Tucson",
+    "value": "Carrington College-Tucson"
+  },
+  {
+    "label": "College America-Flagstaff",
+    "value": "College America-Flagstaff"
+  },
+  {
+    "label": "Arizona Academy of Beauty-East",
+    "value": "Arizona Academy of Beauty-East"
+  },
+  {
+    "label": "Arizona Automotive Institute",
+    "value": "Arizona Automotive Institute"
+  },
+  {
+    "label": "Brookline College-Phoenix",
+    "value": "Brookline College-Phoenix"
+  },
+  {
+    "label": "Arizona State University-Tempe",
+    "value": "Arizona State University-Tempe"
+  },
+  {
+    "label": "Arizona Western College",
+    "value": "Arizona Western College"
+  },
+  {
+    "label": "University of Arizona",
+    "value": "University of Arizona"
+  },
+  {
+    "label": "Southwest University of Visual Arts-Tucson",
+    "value": "Southwest University of Visual Arts-Tucson"
+  },
+  {
+    "label": "Brillare Hairdressing Academy",
+    "value": "Brillare Hairdressing Academy"
+  },
+  {
+    "label": "Central Arizona College",
+    "value": "Central Arizona College"
+  },
+  {
+    "label": "Brown Mackie College-Tucson",
+    "value": "Brown Mackie College-Tucson"
+  },
+  {
+    "label": "Charles of Italy Beauty College",
+    "value": "Charles of Italy Beauty College"
+  },
+  {
+    "label": "Cochise College",
+    "value": "Cochise College"
+  },
+  {
+    "label": "Empire Beauty School-Flagstaff",
+    "value": "Empire Beauty School-Flagstaff"
+  },
+  {
+    "label": "Empire Beauty School-Chandler",
+    "value": "Empire Beauty School-Chandler"
+  },
+  {
+    "label": "Cortiva Institute-Tucson",
+    "value": "Cortiva Institute-Tucson"
+  },
+  {
+    "label": "DeVry University-Arizona",
+    "value": "DeVry University-Arizona"
+  },
+  {
+    "label": "Avalon School of Cosmetology-Mesa",
+    "value": "Avalon School of Cosmetology-Mesa"
+  },
+  {
+    "label": "Eastern Arizona College",
+    "value": "Eastern Arizona College"
+  },
+  {
+    "label": "Embry-Riddle Aeronautical University-Prescott",
+    "value": "Embry-Riddle Aeronautical University-Prescott"
+  },
+  {
+    "label": "Frank Lloyd Wright School of Architecture",
+    "value": "Frank Lloyd Wright School of Architecture"
+  },
+  {
+    "label": "Glendale Community College",
+    "value": "Glendale Community College"
+  },
+  {
+    "label": "Grand Canyon University",
+    "value": "Grand Canyon University"
+  },
+  {
+    "label": "Anthem College-Phoenix",
+    "value": "Anthem College-Phoenix"
+  },
+  {
+    "label": "International Academy of Hair Design",
+    "value": "International Academy of Hair Design"
+  },
+  {
+    "label": "Kaplan College-Phoenix",
+    "value": "Kaplan College-Phoenix"
+  },
+  {
+    "label": "Maricopa Community College System Office",
+    "value": "Maricopa Community College System Office"
+  },
+  {
+    "label": "GateWay Community College",
+    "value": "GateWay Community College"
+  },
+  {
+    "label": "Mesa Community College",
+    "value": "Mesa Community College"
+  },
+  {
+    "label": "ITT Technical Institute-Tucson",
+    "value": "ITT Technical Institute-Tucson"
+  },
+  {
+    "label": "ITT Technical Institute-Tempe",
+    "value": "ITT Technical Institute-Tempe"
+  },
+  {
+    "label": "Mohave Community College",
+    "value": "Mohave Community College"
+  },
+  {
+    "label": "Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division",
+    "value": "Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division"
+  },
+  {
+    "label": "Dine College",
+    "value": "Dine College"
+  },
+  {
+    "label": "Northern Arizona University",
+    "value": "Northern Arizona University"
+  },
+  {
+    "label": "Northland Pioneer College",
+    "value": "Northland Pioneer College"
+  },
+  {
+    "label": "Ottawa University-Phoenix",
+    "value": "Ottawa University-Phoenix"
+  },
+  {
+    "label": "Phoenix College",
+    "value": "Phoenix College"
+  },
+  {
+    "label": "Cortiva Institute-Scottsdale",
+    "value": "Cortiva Institute-Scottsdale"
+  },
+  {
+    "label": "University of Phoenix-Phoenix Campus",
+    "value": "University of Phoenix-Phoenix Campus"
+  },
+  {
+    "label": "Pima Community College",
+    "value": "Pima Community College"
+  },
+  {
+    "label": "Pima Medical Institute-Tucson",
+    "value": "Pima Medical Institute-Tucson"
+  },
+  {
+    "label": "Pima Medical Institute-Albuquerque",
+    "value": "Pima Medical Institute-Albuquerque"
+  },
+  {
+    "label": "Prescott College",
+    "value": "Prescott College"
+  },
+  {
+    "label": "Refrigeration School Inc",
+    "value": "Refrigeration School Inc"
+  },
+  {
+    "label": "Rio Salado College",
+    "value": "Rio Salado College"
+  },
+  {
+    "label": "Roberto-Venn School of Luthiery",
+    "value": "Roberto-Venn School of Luthiery"
+  },
+  {
+    "label": "Hair Academy of Safford",
+    "value": "Hair Academy of Safford"
+  },
+  {
+    "label": "Scottsdale Community College",
+    "value": "Scottsdale Community College"
+  },
+  {
+    "label": "South Mountain Community College",
+    "value": "South Mountain Community College"
+  },
+  {
+    "label": "Arizona Christian University",
+    "value": "Arizona Christian University"
+  },
+  {
+    "label": "Tucson College",
+    "value": "Tucson College"
+  },
+  {
+    "label": "Universal Technical Institute of Arizona Inc",
+    "value": "Universal Technical Institute of Arizona Inc"
+  },
+  {
+    "label": "Western International University",
+    "value": "Western International University"
+  },
+  {
+    "label": "Empire Beauty School-NW Phoenix",
+    "value": "Empire Beauty School-NW Phoenix"
+  },
+  {
+    "label": "Yavapai College",
+    "value": "Yavapai College"
+  },
+  {
+    "label": "University of Arkansas at Little Rock",
+    "value": "University of Arkansas at Little Rock"
+  },
+  {
+    "label": "University of Arkansas for Medical Sciences",
+    "value": "University of Arkansas for Medical Sciences"
+  },
+  {
+    "label": "ABC Beauty College Inc",
+    "value": "ABC Beauty College Inc"
+  },
+  {
+    "label": "Arkansas Baptist College",
+    "value": "Arkansas Baptist College"
+  },
+  {
+    "label": "Arkansas Beauty School",
+    "value": "Arkansas Beauty School"
+  },
+  {
+    "label": "Arkansas Beauty College",
+    "value": "Arkansas Beauty College"
+  },
+  {
+    "label": "Lyon College",
+    "value": "Lyon College"
+  },
+  {
+    "label": "Arkansas College of Barbering and Hair Design",
+    "value": "Arkansas College of Barbering and Hair Design"
+  },
+  {
+    "label": "Arthur's Beauty College Inc-Fort Smith",
+    "value": "Arthur's Beauty College Inc-Fort Smith"
+  },
+  {
+    "label": "University of Arkansas",
+    "value": "University of Arkansas"
+  },
+  {
+    "label": "University of Arkansas at Pine Bluff",
+    "value": "University of Arkansas at Pine Bluff"
+  },
+  {
+    "label": "Arkansas State University-Beebe",
+    "value": "Arkansas State University-Beebe"
+  },
+  {
+    "label": "Arkansas State University-Main Campus",
+    "value": "Arkansas State University-Main Campus"
+  },
+  {
+    "label": "Arkansas Tech University",
+    "value": "Arkansas Tech University"
+  },
+  {
+    "label": "University of Arkansas at Monticello",
+    "value": "University of Arkansas at Monticello"
+  },
+  {
+    "label": "Arthur's Beauty College Inc-Jacksonville",
+    "value": "Arthur's Beauty College Inc-Jacksonville"
+  },
+  {
+    "label": "Baptist Health Schools-Little Rock",
+    "value": "Baptist Health Schools-Little Rock"
+  },
+  {
+    "label": "Black River Technical College",
+    "value": "Black River Technical College"
+  },
+  {
+    "label": "University of Central Arkansas",
+    "value": "University of Central Arkansas"
+  },
+  {
+    "label": "Central Baptist College",
+    "value": "Central Baptist College"
+  },
+  {
+    "label": "Cossatot Community College of the University of Arkansas",
+    "value": "Cossatot Community College of the University of Arkansas"
+  },
+  {
+    "label": "Crowley's Ridge College",
+    "value": "Crowley's Ridge College"
+  },
+  {
+    "label": "Crowley's Ridge Technical Institute",
+    "value": "Crowley's Ridge Technical Institute"
+  },
+  {
+    "label": "East Arkansas Community College",
+    "value": "East Arkansas Community College"
+  },
+  {
+    "label": "Eastern College of Health Vocations-Little Rock",
+    "value": "Eastern College of Health Vocations-Little Rock"
+  },
+  {
+    "label": "Imagine-Paul Mitchell Partner School",
+    "value": "Imagine-Paul Mitchell Partner School"
+  },
+  {
+    "label": "National Park Community College",
+    "value": "National Park Community College"
+  },
+  {
+    "label": "University of Arkansas Community College-Batesville",
+    "value": "University of Arkansas Community College-Batesville"
+  },
+  {
+    "label": "Harding University",
+    "value": "Harding University"
+  },
+  {
+    "label": "Henderson State University",
+    "value": "Henderson State University"
+  },
+  {
+    "label": "Hendrix College",
+    "value": "Hendrix College"
+  },
+  {
+    "label": "Hot Springs Beauty College",
+    "value": "Hot Springs Beauty College"
+  },
+  {
+    "label": "Jefferson Regional Medical Center School of Nursing",
+    "value": "Jefferson Regional Medical Center School of Nursing"
+  },
+  {
+    "label": "John Brown University",
+    "value": "John Brown University"
+  },
+  {
+    "label": "Lees School of Cosmetology",
+    "value": "Lees School of Cosmetology"
+  },
+  {
+    "label": "Career Academy of Hair Design",
+    "value": "Career Academy of Hair Design"
+  },
+  {
+    "label": "Marsha Kay Beauty College",
+    "value": "Marsha Kay Beauty College"
+  },
+  {
+    "label": "Academy of Salon and Spa",
+    "value": "Academy of Salon and Spa"
+  },
+  {
+    "label": "Mid-South Community College",
+    "value": "Mid-South Community College"
+  },
+  {
+    "label": "Arkansas Northeastern College",
+    "value": "Arkansas Northeastern College"
+  },
+  {
+    "label": "Margaret's Hair Academy Inc",
+    "value": "Margaret's Hair Academy Inc"
+  },
+  {
+    "label": "New Tyler Barber College Inc",
+    "value": "New Tyler Barber College Inc"
+  },
+  {
+    "label": "North Arkansas College",
+    "value": "North Arkansas College"
+  },
+  {
+    "label": "Northwest Technical Institute",
+    "value": "Northwest Technical Institute"
+  },
+  {
+    "label": "Ouachita Baptist University",
+    "value": "Ouachita Baptist University"
+  },
+  {
+    "label": "College of the Ouachitas",
+    "value": "College of the Ouachitas"
+  },
+  {
+    "label": "Ozarka College",
+    "value": "Ozarka College"
+  },
+  {
+    "label": "University of the Ozarks",
+    "value": "University of the Ozarks"
+  },
+  {
+    "label": "University of Arkansas Community College-Morrilton",
+    "value": "University of Arkansas Community College-Morrilton"
+  },
+  {
+    "label": "Philander Smith College",
+    "value": "Philander Smith College"
+  },
+  {
+    "label": "Phillips Community College of the University of Arkansas",
+    "value": "Phillips Community College of the University of Arkansas"
+  },
+  {
+    "label": "Southeast Arkansas College",
+    "value": "Southeast Arkansas College"
+  },
+  {
+    "label": "Professional Cosmetology Education Center",
+    "value": "Professional Cosmetology Education Center"
+  },
+  {
+    "label": "Pulaski Technical College",
+    "value": "Pulaski Technical College"
+  },
+  {
+    "label": "University of Arkansas Community College-Hope",
+    "value": "University of Arkansas Community College-Hope"
+  },
+  {
+    "label": "Rich Mountain Community College",
+    "value": "Rich Mountain Community College"
+  },
+  {
+    "label": "Paul Mitchell the School-Arkansas",
+    "value": "Paul Mitchell the School-Arkansas"
+  },
+  {
+    "label": "Searcy Beauty College Inc",
+    "value": "Searcy Beauty College Inc"
+  },
+  {
+    "label": "Shorter College",
+    "value": "Shorter College"
+  },
+  {
+    "label": "Williams Baptist College",
+    "value": "Williams Baptist College"
+  },
+  {
+    "label": "South Arkansas Community College",
+    "value": "South Arkansas Community College"
+  },
+  {
+    "label": "Southern Arkansas University Main Campus",
+    "value": "Southern Arkansas University Main Campus"
+  },
+  {
+    "label": "Southern Arkansas University Tech",
+    "value": "Southern Arkansas University Tech"
+  },
+  {
+    "label": "University of Arkansas System Office",
+    "value": "University of Arkansas System Office"
+  },
+  {
+    "label": "Velvatex College of Beauty Culture",
+    "value": "Velvatex College of Beauty Culture"
+  },
+  {
+    "label": "University of Arkansas-Fort Smith",
+    "value": "University of Arkansas-Fort Smith"
+  },
+  {
+    "label": "Academy of Art University",
+    "value": "Academy of Art University"
+  },
+  {
+    "label": "ITT Technical Institute-Rancho Cordova",
+    "value": "ITT Technical Institute-Rancho Cordova"
+  },
+  {
+    "label": "Academy of Chinese Culture and Health Sciences",
+    "value": "Academy of Chinese Culture and Health Sciences"
+  },
+  {
+    "label": "The Academy of Radio and TV Broadcasting",
+    "value": "The Academy of Radio and TV Broadcasting"
+  },
+  {
+    "label": "Avalon School of Cosmetology-Alameda",
+    "value": "Avalon School of Cosmetology-Alameda"
+  },
+  {
+    "label": "College of Alameda",
+    "value": "College of Alameda"
+  },
+  {
+    "label": "Allan Hancock College",
+    "value": "Allan Hancock College"
+  },
+  {
+    "label": "American Academy of Dramatic Arts-Los Angeles",
+    "value": "American Academy of Dramatic Arts-Los Angeles"
+  },
+  {
+    "label": "American Baptist Seminary of the West",
+    "value": "American Baptist Seminary of the West"
+  },
+  {
+    "label": "American Film Institute Conservatory",
+    "value": "American Film Institute Conservatory"
+  },
+  {
+    "label": "American Beauty College",
+    "value": "American Beauty College"
+  },
+  {
+    "label": "American Career College-Los Angeles",
+    "value": "American Career College-Los Angeles"
+  },
+  {
+    "label": "American Conservatory Theater",
+    "value": "American Conservatory Theater"
+  },
+  {
+    "label": "American River College",
+    "value": "American River College"
+  },
+  {
+    "label": "Everest College-Hayward",
+    "value": "Everest College-Hayward"
+  },
+  {
+    "label": "Antelope Valley College",
+    "value": "Antelope Valley College"
+  },
+  {
+    "label": "Art Center College of Design",
+    "value": "Art Center College of Design"
+  },
+  {
+    "label": "Associated Technical College-Los Angeles",
+    "value": "Associated Technical College-Los Angeles"
+  },
+  {
+    "label": "Associated Technical College-San Diego",
+    "value": "Associated Technical College-San Diego"
+  },
+  {
+    "label": "Azusa Pacific University",
+    "value": "Azusa Pacific University"
+  },
+  {
+    "label": "Bakersfield College",
+    "value": "Bakersfield College"
+  },
+  {
+    "label": "Barstow Community College",
+    "value": "Barstow Community College"
+  },
+  {
+    "label": "Bellus Academy-National City",
+    "value": "Bellus Academy-National City"
+  },
+  {
+    "label": "Bethesda University of California",
+    "value": "Bethesda University of California"
+  },
+  {
+    "label": "Biola University",
+    "value": "Biola University"
+  },
+  {
+    "label": "Brooks Institute",
+    "value": "Brooks Institute"
+  },
+  {
+    "label": "Brownson Technical School",
+    "value": "Brownson Technical School"
+  },
+  {
+    "label": "Bryan University",
+    "value": "Bryan University"
+  },
+  {
+    "label": "Butte College",
+    "value": "Butte College"
+  },
+  {
+    "label": "Phillips Graduate Institute",
+    "value": "Phillips Graduate Institute"
+  },
+  {
+    "label": "California Institute of Integral Studies",
+    "value": "California Institute of Integral Studies"
+  },
+  {
+    "label": "Cabrillo College",
+    "value": "Cabrillo College"
+  },
+  {
+    "label": "California Baptist University",
+    "value": "California Baptist University"
+  },
+  {
+    "label": "California College of the Arts",
+    "value": "California College of the Arts"
+  },
+  {
+    "label": "University of California-Hastings College of Law",
+    "value": "University of California-Hastings College of Law"
+  },
+  {
+    "label": "California Institute of Technology",
+    "value": "California Institute of Technology"
+  },
+  {
+    "label": "California Lutheran University",
+    "value": "California Lutheran University"
+  },
+  {
+    "label": "California Polytechnic State University-San Luis Obispo",
+    "value": "California Polytechnic State University-San Luis Obispo"
+  },
+  {
+    "label": "Alliant International University",
+    "value": "Alliant International University"
+  },
+  {
+    "label": "California State University-Bakersfield",
+    "value": "California State University-Bakersfield"
+  },
+  {
+    "label": "California State University-Stanislaus",
+    "value": "California State University-Stanislaus"
+  },
+  {
+    "label": "California State University-Chancellors Office",
+    "value": "California State University-Chancellors Office"
+  },
+  {
+    "label": "California State University-San Bernardino",
+    "value": "California State University-San Bernardino"
+  },
+  {
+    "label": "California State Polytechnic University-Pomona",
+    "value": "California State Polytechnic University-Pomona"
+  },
+  {
+    "label": "California State University-Chico",
+    "value": "California State University-Chico"
+  },
+  {
+    "label": "California State University-Dominguez Hills",
+    "value": "California State University-Dominguez Hills"
+  },
+  {
+    "label": "California State University-Fresno",
+    "value": "California State University-Fresno"
+  },
+  {
+    "label": "California State University-Fullerton",
+    "value": "California State University-Fullerton"
+  },
+  {
+    "label": "California State University-East Bay",
+    "value": "California State University-East Bay"
+  },
+  {
+    "label": "California State University-Long Beach",
+    "value": "California State University-Long Beach"
+  },
+  {
+    "label": "California State University-Los Angeles",
+    "value": "California State University-Los Angeles"
+  },
+  {
+    "label": "California State University-Northridge",
+    "value": "California State University-Northridge"
+  },
+  {
+    "label": "California State University-Sacramento",
+    "value": "California State University-Sacramento"
+  },
+  {
+    "label": "University of California-Berkeley",
+    "value": "University of California-Berkeley"
+  },
+  {
+    "label": "University of California-Davis",
+    "value": "University of California-Davis"
+  },
+  {
+    "label": "University of California-Irvine",
+    "value": "University of California-Irvine"
+  },
+  {
+    "label": "University of California-Los Angeles",
+    "value": "University of California-Los Angeles"
+  },
+  {
+    "label": "University of California-Riverside",
+    "value": "University of California-Riverside"
+  },
+  {
+    "label": "University of California-San Diego",
+    "value": "University of California-San Diego"
+  },
+  {
+    "label": "University of California-San Francisco",
+    "value": "University of California-San Francisco"
+  },
+  {
+    "label": "University of California-Santa Barbara",
+    "value": "University of California-Santa Barbara"
+  },
+  {
+    "label": "University of California-Santa Cruz",
+    "value": "University of California-Santa Cruz"
+  },
+  {
+    "label": "Sofia University",
+    "value": "Sofia University"
+  },
+  {
+    "label": "California Beauty School",
+    "value": "California Beauty School"
+  },
+  {
+    "label": "California Christian College",
+    "value": "California Christian College"
+  },
+  {
+    "label": "California College San Diego",
+    "value": "California College San Diego"
+  },
+  {
+    "label": "Le Cordon Bleu College of Culinary Arts-San Francisco",
+    "value": "Le Cordon Bleu College of Culinary Arts-San Francisco"
+  },
+  {
+    "label": "California Hair Design Academy",
+    "value": "California Hair Design Academy"
+  },
+  {
+    "label": "California Institute of the Arts",
+    "value": "California Institute of the Arts"
+  },
+  {
+    "label": "California Maritime Academy",
+    "value": "California Maritime Academy"
+  },
+  {
+    "label": "California Western School of Law",
+    "value": "California Western School of Law"
+  },
+  {
+    "label": "Canada College",
+    "value": "Canada College"
+  },
+  {
+    "label": "College of the Canyons",
+    "value": "College of the Canyons"
+  },
+  {
+    "label": "Career Academy of Beauty",
+    "value": "Career Academy of Beauty"
+  },
+  {
+    "label": "Casa Loma College-Van Nuys",
+    "value": "Casa Loma College-Van Nuys"
+  },
+  {
+    "label": "CET-San Diego",
+    "value": "CET-San Diego"
+  },
+  {
+    "label": "CET-Sobrato",
+    "value": "CET-Sobrato"
+  },
+  {
+    "label": "CET-El Centro",
+    "value": "CET-El Centro"
+  },
+  {
+    "label": "CET-San Bernardino",
+    "value": "CET-San Bernardino"
+  },
+  {
+    "label": "CET-Watsonville",
+    "value": "CET-Watsonville"
+  },
+  {
+    "label": "CET-Gilroy",
+    "value": "CET-Gilroy"
+  },
+  {
+    "label": "CET-Salinas",
+    "value": "CET-Salinas"
+  },
+  {
+    "label": "Cerritos College",
+    "value": "Cerritos College"
+  },
+  {
+    "label": "Cerro Coso Community College",
+    "value": "Cerro Coso Community College"
+  },
+  {
+    "label": "Chabot College",
+    "value": "Chabot College"
+  },
+  {
+    "label": "Chaffey College",
+    "value": "Chaffey College"
+  },
+  {
+    "label": "Chapman University",
+    "value": "Chapman University"
+  },
+  {
+    "label": "Charles R Drew University of Medicine and Science",
+    "value": "Charles R Drew University of Medicine and Science"
+  },
+  {
+    "label": "Concordia University-Irvine",
+    "value": "Concordia University-Irvine"
+  },
+  {
+    "label": "San Diego Christian College",
+    "value": "San Diego Christian College"
+  },
+  {
+    "label": "Church Divinity School of the Pacific",
+    "value": "Church Divinity School of the Pacific"
+  },
+  {
+    "label": "Citrus College",
+    "value": "Citrus College"
+  },
+  {
+    "label": "Citrus Heights Beauty College",
+    "value": "Citrus Heights Beauty College"
+  },
+  {
+    "label": "City College of San Francisco",
+    "value": "City College of San Francisco"
+  },
+  {
+    "label": "Claremont Graduate University",
+    "value": "Claremont Graduate University"
+  },
+  {
+    "label": "Claremont McKenna College",
+    "value": "Claremont McKenna College"
+  },
+  {
+    "label": "Milan Institute-Visalia",
+    "value": "Milan Institute-Visalia"
+  },
+  {
+    "label": "Clovis Adult Education",
+    "value": "Clovis Adult Education"
+  },
+  {
+    "label": "Coast Community College District Office",
+    "value": "Coast Community College District Office"
+  },
+  {
+    "label": "Coastline Community College",
+    "value": "Coastline Community College"
+  },
+  {
+    "label": "Cogswell College",
+    "value": "Cogswell College"
+  },
+  {
+    "label": "Coleman University",
+    "value": "Coleman University"
+  },
+  {
+    "label": "COBA Academy",
+    "value": "COBA Academy"
+  },
+  {
+    "label": "Western University of Health Sciences",
+    "value": "Western University of Health Sciences"
+  },
+  {
+    "label": "Columbia College",
+    "value": "Columbia College"
+  },
+  {
+    "label": "Columbia College-Hollywood",
+    "value": "Columbia College-Hollywood"
+  },
+  {
+    "label": "El Camino College-Compton Center",
+    "value": "El Camino College-Compton Center"
+  },
+  {
+    "label": "Western Beauty Institute",
+    "value": "Western Beauty Institute"
+  },
+  {
+    "label": "Contra Costa Community College District Office",
+    "value": "Contra Costa Community College District Office"
+  },
+  {
+    "label": "Contra Costa College",
+    "value": "Contra Costa College"
+  },
+  {
+    "label": "Cosumnes River College",
+    "value": "Cosumnes River College"
+  },
+  {
+    "label": "Crafton Hills College",
+    "value": "Crafton Hills College"
+  },
+  {
+    "label": "Cuesta College",
+    "value": "Cuesta College"
+  },
+  {
+    "label": "Cuyamaca College",
+    "value": "Cuyamaca College"
+  },
+  {
+    "label": "Cypress College",
+    "value": "Cypress College"
+  },
+  {
+    "label": "De Anza College",
+    "value": "De Anza College"
+  },
+  {
+    "label": "Marinello Schools of Beauty-Hemet",
+    "value": "Marinello Schools of Beauty-Hemet"
+  },
+  {
+    "label": "International School of Beauty Inc",
+    "value": "International School of Beauty Inc"
+  },
+  {
+    "label": "Dell'Arte International School of Physical Theatre",
+    "value": "Dell'Arte International School of Physical Theatre"
+  },
+  {
+    "label": "College of the Desert",
+    "value": "College of the Desert"
+  },
+  {
+    "label": "Design Institute of San Diego",
+    "value": "Design Institute of San Diego"
+  },
+  {
+    "label": "DeVry University-California",
+    "value": "DeVry University-California"
+  },
+  {
+    "label": "Diablo Valley College",
+    "value": "Diablo Valley College"
+  },
+  {
+    "label": "Dominican University of California",
+    "value": "Dominican University of California"
+  },
+  {
+    "label": "Dominican School of Philosophy & Theology",
+    "value": "Dominican School of Philosophy & Theology"
+  },
+  {
+    "label": "East Los Angeles College",
+    "value": "East Los Angeles College"
+  },
+  {
+    "label": "Marinello Schools of Beauty-Santa Clara",
+    "value": "Marinello Schools of Beauty-Santa Clara"
+  },
+  {
+    "label": "San Diego Continuing Education",
+    "value": "San Diego Continuing Education"
+  },
+  {
+    "label": "El Camino Community College District",
+    "value": "El Camino Community College District"
+  },
+  {
+    "label": "Elegance International",
+    "value": "Elegance International"
+  },
+  {
+    "label": "Marinello Schools of Beauty-Burbank",
+    "value": "Marinello Schools of Beauty-Burbank"
+  },
+  {
+    "label": "Marinello Schools of Beauty-Moreno Valley",
+    "value": "Marinello Schools of Beauty-Moreno Valley"
+  },
+  {
+    "label": "Emperor's College of Traditional Oriental Medicine",
+    "value": "Emperor's College of Traditional Oriental Medicine"
+  },
+  {
+    "label": "Empire College School of Business",
+    "value": "Empire College School of Business"
+  },
+  {
+    "label": "Evergreen Valley College",
+    "value": "Evergreen Valley College"
+  },
+  {
+    "label": "Fashion Institute of Design & Merchandising-Los Angeles",
+    "value": "Fashion Institute of Design & Merchandising-Los Angeles"
+  },
+  {
+    "label": "Fashion Careers College",
+    "value": "Fashion Careers College"
+  },
+  {
+    "label": "Fashion Institute of Design & Merchandising-San Francisco",
+    "value": "Fashion Institute of Design & Merchandising-San Francisco"
+  },
+  {
+    "label": "Fashion Institute of Design & Merchandising-Orange County",
+    "value": "Fashion Institute of Design & Merchandising-Orange County"
+  },
+  {
+    "label": "Feather River Community College District",
+    "value": "Feather River Community College District"
+  },
+  {
+    "label": "Federico Beauty Institute",
+    "value": "Federico Beauty Institute"
+  },
+  {
+    "label": "Fielding Graduate University",
+    "value": "Fielding Graduate University"
+  },
+  {
+    "label": "Five Branches University",
+    "value": "Five Branches University"
+  },
+  {
+    "label": "Hair California Beauty Academy",
+    "value": "Hair California Beauty Academy"
+  },
+  {
+    "label": "Foothill College",
+    "value": "Foothill College"
+  },
+  {
+    "label": "Franciscan School of Theology",
+    "value": "Franciscan School of Theology"
+  },
+  {
+    "label": "Fredrick and Charles Beauty College",
+    "value": "Fredrick and Charles Beauty College"
+  },
+  {
+    "label": "Fresno City College",
+    "value": "Fresno City College"
+  },
+  {
+    "label": "Fresno Pacific University",
+    "value": "Fresno Pacific University"
+  },
+  {
+    "label": "Foothill-De Anza Community College District",
+    "value": "Foothill-De Anza Community College District"
+  },
+  {
+    "label": "Fuller Theological Seminary in California",
+    "value": "Fuller Theological Seminary in California"
+  },
+  {
+    "label": "Fullerton College",
+    "value": "Fullerton College"
+  },
+  {
+    "label": "Galen College of Medical and Dental Assistants",
+    "value": "Galen College of Medical and Dental Assistants"
+  },
+  {
+    "label": "Gavilan College",
+    "value": "Gavilan College"
+  },
+  {
+    "label": "Gemological Institute of America-Carlsbad",
+    "value": "Gemological Institute of America-Carlsbad"
+  },
+  {
+    "label": "Glendale Community College",
+    "value": "Glendale Community College"
+  },
+  {
+    "label": "Glendale Career College",
+    "value": "Glendale Career College"
+  },
+  {
+    "label": "Golden Gate University-San Francisco",
+    "value": "Golden Gate University-San Francisco"
+  },
+  {
+    "label": "Golden West College",
+    "value": "Golden West College"
+  },
+  {
+    "label": "Graduate Theological Union",
+    "value": "Graduate Theological Union"
+  },
+  {
+    "label": "Grossmont-Cuyamaca Community College District",
+    "value": "Grossmont-Cuyamaca Community College District"
+  },
+  {
+    "label": "Grossmont College",
+    "value": "Grossmont College"
+  },
+  {
+    "label": "Salon Success Academy-San Bernardino",
+    "value": "Salon Success Academy-San Bernardino"
+  },
+  {
+    "label": "Hartnell College",
+    "value": "Hartnell College"
+  },
+  {
+    "label": "Harvey Mudd College",
+    "value": "Harvey Mudd College"
+  },
+  {
+    "label": "Heald College-Rancho Cordova",
+    "value": "Heald College-Rancho Cordova"
+  },
+  {
+    "label": "Heald College-Fresno",
+    "value": "Heald College-Fresno"
+  },
+  {
+    "label": "Heald College-San Jose",
+    "value": "Heald College-San Jose"
+  },
+  {
+    "label": "Heald College-San Francisco",
+    "value": "Heald College-San Francisco"
+  },
+  {
+    "label": "Heald College-Concord",
+    "value": "Heald College-Concord"
+  },
+  {
+    "label": "Hilltop Beauty School",
+    "value": "Hilltop Beauty School"
+  },
+  {
+    "label": "Holy Names University",
+    "value": "Holy Names University"
+  },
+  {
+    "label": "Pacifica Graduate Institute",
+    "value": "Pacifica Graduate Institute"
+  },
+  {
+    "label": "Humboldt State University",
+    "value": "Humboldt State University"
+  },
+  {
+    "label": "Humphreys College-Stockton and Modesto Campuses",
+    "value": "Humphreys College-Stockton and Modesto Campuses"
+  },
+  {
+    "label": "Imperial Valley College",
+    "value": "Imperial Valley College"
+  },
+  {
+    "label": "Institute for Business and Technology",
+    "value": "Institute for Business and Technology"
+  },
+  {
+    "label": "LA College International",
+    "value": "LA College International"
+  },
+  {
+    "label": "Interior Designers Institute",
+    "value": "Interior Designers Institute"
+  },
+  {
+    "label": "Toni & Guy Hairdressing Academy-Santa Monica",
+    "value": "Toni & Guy Hairdressing Academy-Santa Monica"
+  },
+  {
+    "label": "Irvine Valley College",
+    "value": "Irvine Valley College"
+  },
+  {
+    "label": "ITT Technical Institute-National City",
+    "value": "ITT Technical Institute-National City"
+  },
+  {
+    "label": "ITT Technical Institute-San Dimas",
+    "value": "ITT Technical Institute-San Dimas"
+  },
+  {
+    "label": "ITT Technical Institute-Orange",
+    "value": "ITT Technical Institute-Orange"
+  },
+  {
+    "label": "Bellus Academy-El Cajon",
+    "value": "Bellus Academy-El Cajon"
+  },
+  {
+    "label": "Joe Blasco Makeup Artist Training Center",
+    "value": "Joe Blasco Makeup Artist Training Center"
+  },
+  {
+    "label": "John F Kennedy University",
+    "value": "John F Kennedy University"
+  },
+  {
+    "label": "American Jewish University",
+    "value": "American Jewish University"
+  },
+  {
+    "label": "Reedley College",
+    "value": "Reedley College"
+  },
+  {
+    "label": "Life Pacific College",
+    "value": "Life Pacific College"
+  },
+  {
+    "label": "The Art Institute of California-Argosy University San Diego",
+    "value": "The Art Institute of California-Argosy University San Diego"
+  },
+  {
+    "label": "University of La Verne",
+    "value": "University of La Verne"
+  },
+  {
+    "label": "Laguna College of Art and Design",
+    "value": "Laguna College of Art and Design"
+  },
+  {
+    "label": "Lake Tahoe Community College",
+    "value": "Lake Tahoe Community College"
+  },
+  {
+    "label": "Lancaster Beauty School",
+    "value": "Lancaster Beauty School"
+  },
+  {
+    "label": "Laney College",
+    "value": "Laney College"
+  },
+  {
+    "label": "Lassen Community College",
+    "value": "Lassen Community College"
+  },
+  {
+    "label": "Life Chiropractic College West",
+    "value": "Life Chiropractic College West"
+  },
+  {
+    "label": "Lincoln University",
+    "value": "Lincoln University"
+  },
+  {
+    "label": "Southern California Seminary",
+    "value": "Southern California Seminary"
+  },
+  {
+    "label": "La Sierra University",
+    "value": "La Sierra University"
+  },
+  {
+    "label": "Loma Linda University",
+    "value": "Loma Linda University"
+  },
+  {
+    "label": "Long Beach City College",
+    "value": "Long Beach City College"
+  },
+  {
+    "label": "Southern California University of Health Sciences",
+    "value": "Southern California University of Health Sciences"
+  },
+  {
+    "label": "Los Angeles Community College District Office",
+    "value": "Los Angeles Community College District Office"
+  },
+  {
+    "label": "Los Angeles Harbor College",
+    "value": "Los Angeles Harbor College"
+  },
+  {
+    "label": "Los Angeles Pierce College",
+    "value": "Los Angeles Pierce College"
+  },
+  {
+    "label": "Los Angeles Southwest College",
+    "value": "Los Angeles Southwest College"
+  },
+  {
+    "label": "Los Angeles Trade Technical College",
+    "value": "Los Angeles Trade Technical College"
+  },
+  {
+    "label": "Los Angeles Valley College",
+    "value": "Los Angeles Valley College"
+  },
+  {
+    "label": "The Master's College and Seminary",
+    "value": "The Master's College and Seminary"
+  },
+  {
+    "label": "Los Angeles City College",
+    "value": "Los Angeles City College"
+  },
+  {
+    "label": "Los Angeles County College of Nursing and Allied Health",
+    "value": "Los Angeles County College of Nursing and Allied Health"
+  },
+  {
+    "label": "Los Angeles Mission College",
+    "value": "Los Angeles Mission College"
+  },
+  {
+    "label": "Los Medanos College",
+    "value": "Los Medanos College"
+  },
+  {
+    "label": "Los Rios Community College District Office",
+    "value": "Los Rios Community College District Office"
+  },
+  {
+    "label": "The Art Institute of California-Argosy University San Francisco",
+    "value": "The Art Institute of California-Argosy University San Francisco"
+  },
+  {
+    "label": "Loyola Marymount University",
+    "value": "Loyola Marymount University"
+  },
+  {
+    "label": "Lu Ross Academy",
+    "value": "Lu Ross Academy"
+  },
+  {
+    "label": "Manchester Beauty College",
+    "value": "Manchester Beauty College"
+  },
+  {
+    "label": "Tulare Beauty College",
+    "value": "Tulare Beauty College"
+  },
+  {
+    "label": "Lyles Bakersfield College of Beauty",
+    "value": "Lyles Bakersfield College of Beauty"
+  },
+  {
+    "label": "Lyles Fresno College of Beauty",
+    "value": "Lyles Fresno College of Beauty"
+  },
+  {
+    "label": "Lytles Redwood Empire Beauty College Inc",
+    "value": "Lytles Redwood Empire Beauty College Inc"
+  },
+  {
+    "label": "MTI Business College Inc",
+    "value": "MTI Business College Inc"
+  },
+  {
+    "label": "MTI College",
+    "value": "MTI College"
+  },
+  {
+    "label": "Kaplan College-Sacramento",
+    "value": "Kaplan College-Sacramento"
+  },
+  {
+    "label": "Kaplan College-San Diego",
+    "value": "Kaplan College-San Diego"
+  },
+  {
+    "label": "Kaplan College-Vista",
+    "value": "Kaplan College-Vista"
+  },
+  {
+    "label": "College of Marin",
+    "value": "College of Marin"
+  },
+  {
+    "label": "Marinello Schools of Beauty-Los Angeles",
+    "value": "Marinello Schools of Beauty-Los Angeles"
+  },
+  {
+    "label": "Marymount California University",
+    "value": "Marymount California University"
+  },
+  {
+    "label": "Mendocino College",
+    "value": "Mendocino College"
+  },
+  {
+    "label": "Menlo College",
+    "value": "Menlo College"
+  },
+  {
+    "label": "Merced College",
+    "value": "Merced College"
+  },
+  {
+    "label": "Merritt College",
+    "value": "Merritt College"
+  },
+  {
+    "label": "Mills College",
+    "value": "Mills College"
+  },
+  {
+    "label": "MiraCosta College",
+    "value": "MiraCosta College"
+  },
+  {
+    "label": "Marinello Schools of Beauty-San Francisco",
+    "value": "Marinello Schools of Beauty-San Francisco"
+  },
+  {
+    "label": "Mission College",
+    "value": "Mission College"
+  },
+  {
+    "label": "Modern Beauty Academy",
+    "value": "Modern Beauty Academy"
+  },
+  {
+    "label": "Kaplan College-North Hollywood",
+    "value": "Kaplan College-North Hollywood"
+  },
+  {
+    "label": "Modesto Junior College",
+    "value": "Modesto Junior College"
+  },
+  {
+    "label": "Moler Barber College",
+    "value": "Moler Barber College"
+  },
+  {
+    "label": "Monterey Institute of International Studies",
+    "value": "Monterey Institute of International Studies"
+  },
+  {
+    "label": "Monterey Peninsula College",
+    "value": "Monterey Peninsula College"
+  },
+  {
+    "label": "Moorpark College",
+    "value": "Moorpark College"
+  },
+  {
+    "label": "Mt San Antonio College",
+    "value": "Mt San Antonio College"
+  },
+  {
+    "label": "Mount St Mary's College",
+    "value": "Mount St Mary's College"
+  },
+  {
+    "label": "Mt San Jacinto Community College District",
+    "value": "Mt San Jacinto Community College District"
+  },
+  {
+    "label": "Mueller College",
+    "value": "Mueller College"
+  },
+  {
+    "label": "Musicians Institute",
+    "value": "Musicians Institute"
+  },
+  {
+    "label": "Napa Valley College",
+    "value": "Napa Valley College"
+  },
+  {
+    "label": "Everest College-San Francisco",
+    "value": "Everest College-San Francisco"
+  },
+  {
+    "label": "Everest College-Reseda",
+    "value": "Everest College-Reseda"
+  },
+  {
+    "label": "Everest College-LA Wilshire",
+    "value": "Everest College-LA Wilshire"
+  },
+  {
+    "label": "Everest College-San Jose",
+    "value": "Everest College-San Jose"
+  },
+  {
+    "label": "Everest College-Gardena",
+    "value": "Everest College-Gardena"
+  },
+  {
+    "label": "Everest College-Alhambra",
+    "value": "Everest College-Alhambra"
+  },
+  {
+    "label": "Everest College-San Bernardino",
+    "value": "Everest College-San Bernardino"
+  },
+  {
+    "label": "The National Hispanic University",
+    "value": "The National Hispanic University"
+  },
+  {
+    "label": "National Holistic Institute",
+    "value": "National Holistic Institute"
+  },
+  {
+    "label": "National University",
+    "value": "National University"
+  },
+  {
+    "label": "Naval Postgraduate School",
+    "value": "Naval Postgraduate School"
+  },
+  {
+    "label": "Newschool of Architecture and Design",
+    "value": "Newschool of Architecture and Design"
+  },
+  {
+    "label": "Newberry School of Beauty",
+    "value": "Newberry School of Beauty"
+  },
+  {
+    "label": "Adrian's College of Beauty Modesto",
+    "value": "Adrian's College of Beauty Modesto"
+  },
+  {
+    "label": "North Orange County Community College District",
+    "value": "North Orange County Community College District"
+  },
+  {
+    "label": "North-West College-Pomona",
+    "value": "North-West College-Pomona"
+  },
+  {
+    "label": "North-West College-West Covina",
+    "value": "North-West College-West Covina"
+  },
+  {
+    "label": "North-West College-Pasadena",
+    "value": "North-West College-Pasadena"
+  },
+  {
+    "label": "Northwestern Polytechnic University",
+    "value": "Northwestern Polytechnic University"
+  },
+  {
+    "label": "Notre Dame de Namur University",
+    "value": "Notre Dame de Namur University"
+  },
+  {
+    "label": "Occidental College",
+    "value": "Occidental College"
+  },
+  {
+    "label": "Oceanside College of Beauty",
+    "value": "Oceanside College of Beauty"
+  },
+  {
+    "label": "Ohlone College",
+    "value": "Ohlone College"
+  },
+  {
+    "label": "Orange Coast College",
+    "value": "Orange Coast College"
+  },
+  {
+    "label": "Otis College of Art and Design",
+    "value": "Otis College of Art and Design"
+  },
+  {
+    "label": "Oxnard College",
+    "value": "Oxnard College"
+  },
+  {
+    "label": "Hope International University",
+    "value": "Hope International University"
+  },
+  {
+    "label": "Concorde Career College-San Diego",
+    "value": "Concorde Career College-San Diego"
+  },
+  {
+    "label": "Palo Alto University",
+    "value": "Palo Alto University"
+  },
+  {
+    "label": "Pacific Lutheran Theological Seminary",
+    "value": "Pacific Lutheran Theological Seminary"
+  },
+  {
+    "label": "Pacific Oaks College",
+    "value": "Pacific Oaks College"
+  },
+  {
+    "label": "Pacific School of Religion",
+    "value": "Pacific School of Religion"
+  },
+  {
+    "label": "Pacific States University",
+    "value": "Pacific States University"
+  },
+  {
+    "label": "Pacific Union College",
+    "value": "Pacific Union College"
+  },
+  {
+    "label": "University of the Pacific",
+    "value": "University of the Pacific"
+  },
+  {
+    "label": "Palo Verde College",
+    "value": "Palo Verde College"
+  },
+  {
+    "label": "Palomar College",
+    "value": "Palomar College"
+  },
+  {
+    "label": "Paris Beauty College",
+    "value": "Paris Beauty College"
+  },
+  {
+    "label": "Pasadena City College",
+    "value": "Pasadena City College"
+  },
+  {
+    "label": "Pepperdine University",
+    "value": "Pepperdine University"
+  },
+  {
+    "label": "Peralta Community College System Office",
+    "value": "Peralta Community College System Office"
+  },
+  {
+    "label": "Pitzer College",
+    "value": "Pitzer College"
+  },
+  {
+    "label": "Platt College-San Diego",
+    "value": "Platt College-San Diego"
+  },
+  {
+    "label": "Point Loma Nazarene University",
+    "value": "Point Loma Nazarene University"
+  },
+  {
+    "label": "Pomona College",
+    "value": "Pomona College"
+  },
+  {
+    "label": "Porterville College",
+    "value": "Porterville College"
+  },
+  {
+    "label": "Westwood College-South Bay",
+    "value": "Westwood College-South Bay"
+  },
+  {
+    "label": "Professional Institute of Beauty",
+    "value": "Professional Institute of Beauty"
+  },
+  {
+    "label": "Santa Ana College",
+    "value": "Santa Ana College"
+  },
+  {
+    "label": "Pardee RAND Graduate School",
+    "value": "Pardee RAND Graduate School"
+  },
+  {
+    "label": "Shasta School of Cosmetology",
+    "value": "Shasta School of Cosmetology"
+  },
+  {
+    "label": "University of Redlands",
+    "value": "University of Redlands"
+  },
+  {
+    "label": "College of the Redwoods",
+    "value": "College of the Redwoods"
+  },
+  {
+    "label": "Salon Success Academy-Upland",
+    "value": "Salon Success Academy-Upland"
+  },
+  {
+    "label": "Salon Success Academy-Corona",
+    "value": "Salon Success Academy-Corona"
+  },
+  {
+    "label": "Rio Hondo College",
+    "value": "Rio Hondo College"
+  },
+  {
+    "label": "Riverside City College",
+    "value": "Riverside City College"
+  },
+  {
+    "label": "Argosy University-San Francisco Bay Area",
+    "value": "Argosy University-San Francisco Bay Area"
+  },
+  {
+    "label": "Rosemead Beauty School",
+    "value": "Rosemead Beauty School"
+  },
+  {
+    "label": "Dongguk University-Los Angeles",
+    "value": "Dongguk University-Los Angeles"
+  },
+  {
+    "label": "Sacramento City College",
+    "value": "Sacramento City College"
+  },
+  {
+    "label": "Saddleback College",
+    "value": "Saddleback College"
+  },
+  {
+    "label": "Saint Patrick's Seminary and University",
+    "value": "Saint Patrick's Seminary and University"
+  },
+  {
+    "label": "Samuel Merritt University",
+    "value": "Samuel Merritt University"
+  },
+  {
+    "label": "San Diego Community College District-District Office",
+    "value": "San Diego Community College District-District Office"
+  },
+  {
+    "label": "San Diego City College",
+    "value": "San Diego City College"
+  },
+  {
+    "label": "Golf Academy of America-Carlsbad",
+    "value": "Golf Academy of America-Carlsbad"
+  },
+  {
+    "label": "San Diego Mesa College",
+    "value": "San Diego Mesa College"
+  },
+  {
+    "label": "San Diego Miramar College",
+    "value": "San Diego Miramar College"
+  },
+  {
+    "label": "San Diego State University",
+    "value": "San Diego State University"
+  },
+  {
+    "label": "University of San Diego",
+    "value": "University of San Diego"
+  },
+  {
+    "label": "San Francisco Art Institute",
+    "value": "San Francisco Art Institute"
+  },
+  {
+    "label": "San Francisco Conservatory of Music",
+    "value": "San Francisco Conservatory of Music"
+  },
+  {
+    "label": "San Francisco State University",
+    "value": "San Francisco State University"
+  },
+  {
+    "label": "San Francisco Theological Seminary",
+    "value": "San Francisco Theological Seminary"
+  },
+  {
+    "label": "University of San Francisco",
+    "value": "University of San Francisco"
+  },
+  {
+    "label": "San Joaquin College of Law",
+    "value": "San Joaquin College of Law"
+  },
+  {
+    "label": "San Joaquin Delta College",
+    "value": "San Joaquin Delta College"
+  },
+  {
+    "label": "San Joaquin Valley College-Visalia",
+    "value": "San Joaquin Valley College-Visalia"
+  },
+  {
+    "label": "San Joaquin Valley College-Bakersfield",
+    "value": "San Joaquin Valley College-Bakersfield"
+  },
+  {
+    "label": "William Jessup University",
+    "value": "William Jessup University"
+  },
+  {
+    "label": "San Jose-Evergreen Community College District",
+    "value": "San Jose-Evergreen Community College District"
+  },
+  {
+    "label": "San Jose City College",
+    "value": "San Jose City College"
+  },
+  {
+    "label": "San Jose State University",
+    "value": "San Jose State University"
+  },
+  {
+    "label": "San Mateo County Community College District Office",
+    "value": "San Mateo County Community College District Office"
+  },
+  {
+    "label": "College of San Mateo",
+    "value": "College of San Mateo"
+  },
+  {
+    "label": "Santa Barbara Business College-Bakersfield",
+    "value": "Santa Barbara Business College-Bakersfield"
+  },
+  {
+    "label": "Westwood College-Los Angeles",
+    "value": "Westwood College-Los Angeles"
+  },
+  {
+    "label": "Santa Barbara Business College-Santa Maria",
+    "value": "Santa Barbara Business College-Santa Maria"
+  },
+  {
+    "label": "Santa Barbara City College",
+    "value": "Santa Barbara City College"
+  },
+  {
+    "label": "Santa Clara University",
+    "value": "Santa Clara University"
+  },
+  {
+    "label": "Santa Monica College",
+    "value": "Santa Monica College"
+  },
+  {
+    "label": "Santa Rosa Junior College",
+    "value": "Santa Rosa Junior College"
+  },
+  {
+    "label": "Saybrook University",
+    "value": "Saybrook University"
+  },
+  {
+    "label": "Scripps College",
+    "value": "Scripps College"
+  },
+  {
+    "label": "Wyotech-Fremont",
+    "value": "Wyotech-Fremont"
+  },
+  {
+    "label": "College of the Sequoias",
+    "value": "College of the Sequoias"
+  },
+  {
+    "label": "Shasta Bible College and Graduate School",
+    "value": "Shasta Bible College and Graduate School"
+  },
+  {
+    "label": "Shasta College",
+    "value": "Shasta College"
+  },
+  {
+    "label": "Sierra College",
+    "value": "Sierra College"
+  },
+  {
+    "label": "Sierra College of Beauty",
+    "value": "Sierra College of Beauty"
+  },
+  {
+    "label": "Sierra Valley College of Court Reporting",
+    "value": "Sierra Valley College of Court Reporting"
+  },
+  {
+    "label": "Trinity Law School",
+    "value": "Trinity Law School"
+  },
+  {
+    "label": "Simpson University",
+    "value": "Simpson University"
+  },
+  {
+    "label": "College of the Siskiyous",
+    "value": "College of the Siskiyous"
+  },
+  {
+    "label": "Charles A Jones Career and Education Center",
+    "value": "Charles A Jones Career and Education Center"
+  },
+  {
+    "label": "Skyline College",
+    "value": "Skyline College"
+  },
+  {
+    "label": "San Bernardino Valley College",
+    "value": "San Bernardino Valley College"
+  },
+  {
+    "label": "Saint Mary's College of California",
+    "value": "Saint Mary's College of California"
+  },
+  {
+    "label": "Solano Community College",
+    "value": "Solano Community College"
+  },
+  {
+    "label": "Sonoma State University",
+    "value": "Sonoma State University"
+  },
+  {
+    "label": "Pinnacle College",
+    "value": "Pinnacle College"
+  },
+  {
+    "label": "South Baylo University",
+    "value": "South Baylo University"
+  },
+  {
+    "label": "South Coast College",
+    "value": "South Coast College"
+  },
+  {
+    "label": "Vanguard University of Southern California",
+    "value": "Vanguard University of Southern California"
+  },
+  {
+    "label": "Concorde Career College-Garden Grove",
+    "value": "Concorde Career College-Garden Grove"
+  },
+  {
+    "label": "Southwestern College",
+    "value": "Southwestern College"
+  },
+  {
+    "label": "St John's Seminary",
+    "value": "St John's Seminary"
+  },
+  {
+    "label": "Starr King School for Ministry",
+    "value": "Starr King School for Ministry"
+  },
+  {
+    "label": "State Center Community College District",
+    "value": "State Center Community College District"
+  },
+  {
+    "label": "Marshall B Ketchum University",
+    "value": "Marshall B Ketchum University"
+  },
+  {
+    "label": "Southern California Institute of Architecture",
+    "value": "Southern California Institute of Architecture"
+  },
+  {
+    "label": "University of Southern California",
+    "value": "University of Southern California"
+  },
+  {
+    "label": "Southwestern Law School",
+    "value": "Southwestern Law School"
+  },
+  {
+    "label": "Taft College",
+    "value": "Taft College"
+  },
+  {
+    "label": "Claremont School of Theology",
+    "value": "Claremont School of Theology"
+  },
+  {
+    "label": "Thomas Aquinas College",
+    "value": "Thomas Aquinas College"
+  },
+  {
+    "label": "Marinello Schools of Beauty-Lake Forest",
+    "value": "Marinello Schools of Beauty-Lake Forest"
+  },
+  {
+    "label": "Epic Bible College",
+    "value": "Epic Bible College"
+  },
+  {
+    "label": "University of California-System Administration Central Office",
+    "value": "University of California-System Administration Central Office"
+  },
+  {
+    "label": "United Education Institute-Huntington Park Campus",
+    "value": "United Education Institute-Huntington Park Campus"
+  },
+  {
+    "label": "Concorde Career College-San Bernardino",
+    "value": "Concorde Career College-San Bernardino"
+  },
+  {
+    "label": "Universal College of Beauty Inc-Los Angeles 1",
+    "value": "Universal College of Beauty Inc-Los Angeles 1"
+  },
+  {
+    "label": "Concorde Career College-North Hollywood",
+    "value": "Concorde Career College-North Hollywood"
+  },
+  {
+    "label": "Ventura County Community College System Office",
+    "value": "Ventura County Community College System Office"
+  },
+  {
+    "label": "Ventura College",
+    "value": "Ventura College"
+  },
+  {
+    "label": "The Santa Barbara and Ventura Colleges of Law-Ventura",
+    "value": "The Santa Barbara and Ventura Colleges of Law-Ventura"
+  },
+  {
+    "label": "Victor Valley Beauty College Inc",
+    "value": "Victor Valley Beauty College Inc"
+  },
+  {
+    "label": "Victor Valley College",
+    "value": "Victor Valley College"
+  },
+  {
+    "label": "Berkeley City College",
+    "value": "Berkeley City College"
+  },
+  {
+    "label": "West Valley Mission Community College District Office",
+    "value": "West Valley Mission Community College District Office"
+  },
+  {
+    "label": "Walden University",
+    "value": "Walden University"
+  },
+  {
+    "label": "Waynes College of Beauty",
+    "value": "Waynes College of Beauty"
+  },
+  {
+    "label": "West Hills College-Coalinga",
+    "value": "West Hills College-Coalinga"
+  },
+  {
+    "label": "West Los Angeles College",
+    "value": "West Los Angeles College"
+  },
+  {
+    "label": "West Valley College",
+    "value": "West Valley College"
+  },
+  {
+    "label": "Carrington College California-Sacramento",
+    "value": "Carrington College California-Sacramento"
+  },
+  {
+    "label": "Westminster Theological Seminary in California",
+    "value": "Westminster Theological Seminary in California"
+  },
+  {
+    "label": "Westmont College",
+    "value": "Westmont College"
+  },
+  {
+    "label": "Whittier College",
+    "value": "Whittier College"
+  },
+  {
+    "label": "Woodbury University",
+    "value": "Woodbury University"
+  },
+  {
+    "label": "The Wright Institute",
+    "value": "The Wright Institute"
+  },
+  {
+    "label": "Western State College of Law at Argosy University",
+    "value": "Western State College of Law at Argosy University"
+  },
+  {
+    "label": "Thomas Jefferson School of Law",
+    "value": "Thomas Jefferson School of Law"
+  },
+  {
+    "label": "Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary",
+    "value": "Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary"
+  },
+  {
+    "label": "Yosemite Community College District Office",
+    "value": "Yosemite Community College District Office"
+  },
+  {
+    "label": "Yuba College",
+    "value": "Yuba College"
+  }
+]

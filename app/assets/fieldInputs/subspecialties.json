@@ -1,0 +1,153 @@
+{
+    "Anesthesiology": [
+        { "label": "Cardiothoracic Anesthesiology", "value": "Cardiothoracic Anesthesiology" },
+        { "label": "Pediatric Anesthesiology", "value": "Pediatric Anesthesiology" },
+        { "label": "Pain Medicine", "value": "Pain Medicine" },
+        { "label": "Critical Care Medicine", "value": "Critical Care Medicine" },
+        { "label": "Obstetric Anesthesiology", "value": "Obstetric Anesthesiology" },
+        { "label": "Regional and Ambulatory Anesthesia", "value": "Regional and Ambulatory Anesthesia" }
+    ],
+    "Dermatology": [
+        { "label": "Pediatric Dermatology", "value": "Pediatric Dermatology" },
+        { "label": "Dermatopathology", "value": "Dermatopathology" },
+        { "label": "Mohs Surgery", "value": "Mohs Surgery" },
+        { "label": "Cosmetic Dermatology", "value": "Cosmetic Dermatology" },
+        { "label": "Immunodermatology", "value": "Immunodermatology" }
+    ],
+    "Emergency Medicine": [
+        { "label": "Pediatric Emergency Medicine", "value": "Pediatric Emergency Medicine" },
+        { "label": "Medical Toxicology", "value": "Medical Toxicology" },
+        { "label": "Emergency Medical Services (EMS)", "value": "Emergency Medical Services (EMS)" },
+        { "label": "Critical Care Medicine", "value": "Critical Care Medicine" },
+        { "label": "Disaster Medicine", "value": "Disaster Medicine" },
+        { "label": "Wilderness Medicine", "value": "Wilderness Medicine" }
+    ],
+    "Family Medicine": [
+        { "label": "Geriatric Medicine", "value": "Geriatric Medicine" },
+        { "label": "Sports Medicine", "value": "Sports Medicine" },
+        { "label": "Adolescent Medicine", "value": "Adolescent Medicine" },
+        { "label": "Sleep Medicine", "value": "Sleep Medicine" },
+        { "label": "Hospice and Palliative Medicine", "value": "Hospice and Palliative Medicine" },
+        { "label": "Obstetrics (special focus)", "value": "Obstetrics (special focus)" }
+    ],
+    "General Surgery": [
+        { "label": "Cardiothoracic Surgery", "value": "Cardiothoracic Surgery" },
+        { "label": "Colorectal Surgery", "value": "Colorectal Surgery" },
+        { "label": "Pediatric Surgery", "value": "Pediatric Surgery" },
+        { "label": "Surgical Oncology", "value": "Surgical Oncology" },
+        { "label": "Vascular Surgery", "value": "Vascular Surgery" },
+        { "label": "Trauma and Critical Care Surgery", "value": "Trauma and Critical Care Surgery" },
+        { "label": "Transplant Surgery", "value": "Transplant Surgery" }
+    ],
+    "Infectious Disease (Internal Medicine)": [
+        { "label": "HIV/AIDS Medicine", "value": "HIV/AIDS Medicine" },
+        { "label": "Tropical Medicine", "value": "Tropical Medicine" },
+        { "label": "Hospital Epidemiology", "value": "Hospital Epidemiology" },
+        { "label": "Antimicrobial Stewardship", "value": "Antimicrobial Stewardship" }
+    ],
+    "Internal Medicine": [
+        { "label": "Cardiology", "value": "Cardiology" },
+        { "label": "Gastroenterology", "value": "Gastroenterology" },
+        { "label": "Pulmonology", "value": "Pulmonology" },
+        { "label": "Nephrology", "value": "Nephrology" },
+        { "label": "Endocrinology", "value": "Endocrinology" },
+        { "label": "Hematology/Oncology", "value": "Hematology/Oncology" },
+        { "label": "Rheumatology", "value": "Rheumatology" },
+        { "label": "Geriatrics", "value": "Geriatrics" },
+        { "label": "Infectious Disease", "value": "Infectious Disease" },
+        { "label": "Critical Care Medicine", "value": "Critical Care Medicine" },
+        { "label": "Sleep Medicine", "value": "Sleep Medicine" },
+        { "label": "Allergy and Immunology", "value": "Allergy and Immunology" }
+    ],
+    "Neurology": [
+        { "label": "Stroke and Vascular Neurology", "value": "Stroke and Vascular Neurology" },
+        { "label": "Epilepsy", "value": "Epilepsy" },
+        { "label": "Neuromuscular Medicine", "value": "Neuromuscular Medicine" },
+        { "label": "Movement Disorders", "value": "Movement Disorders" },
+        { "label": "Multiple Sclerosis and Neuroimmunology", "value": "Multiple Sclerosis and Neuroimmunology" },
+        { "label": "Headache Medicine", "value": "Headache Medicine" },
+        { "label": "Neurocritical Care", "value": "Neurocritical Care" },
+        { "label": "Behavioral Neurology and Neuropsychiatry", "value": "Behavioral Neurology and Neuropsychiatry" }
+    ],
+    "Neurosurgery": [
+        { "label": "Cerebrovascular Surgery", "value": "Cerebrovascular Surgery" },
+        { "label": "Spine Surgery", "value": "Spine Surgery" },
+        { "label": "Skull Base Surgery", "value": "Skull Base Surgery" },
+        { "label": "Pediatric Neurosurgery", "value": "Pediatric Neurosurgery" },
+        { "label": "Functional Neurosurgery", "value": "Functional Neurosurgery" },
+        { "label": "Neuro-Oncology", "value": "Neuro-Oncology" }
+    ],
+    "Obstetrics & Gynecology (OB/GYN)": [
+        { "label": "Maternal-Fetal Medicine", "value": "Maternal-Fetal Medicine" },
+        { "label": "Gynecologic Oncology", "value": "Gynecologic Oncology" },
+        { "label": "Reproductive Endocrinology and Infertility", "value": "Reproductive Endocrinology and Infertility" },
+        { "label": "Female Pelvic Medicine and Reconstructive Surgery", "value": "Female Pelvic Medicine and Reconstructive Surgery" }
+    ],
+    "Ophthalmology": [
+        { "label": "Retina and Vitreous Surgery", "value": "Retina and Vitreous Surgery" },
+        { "label": "Cornea and External Disease", "value": "Cornea and External Disease" },
+        { "label": "Pediatric Ophthalmology", "value": "Pediatric Ophthalmology" },
+        { "label": "Oculoplastic Surgery", "value": "Oculoplastic Surgery" },
+        { "label": "Glaucoma", "value": "Glaucoma" },
+        { "label": "Neuro-Ophthalmology", "value": "Neuro-Ophthalmology" }
+    ],
+    "Orthopedic Surgery": [
+        { "label": "Sports Medicine", "value": "Sports Medicine" },
+        { "label": "Spine Surgery", "value": "Spine Surgery" },
+        { "label": "Hand Surgery", "value": "Hand Surgery" },
+        { "label": "Pediatric Orthopedics", "value": "Pediatric Orthopedics" },
+        { "label": "Trauma Surgery", "value": "Trauma Surgery" },
+        { "label": "Foot and Ankle Surgery", "value": "Foot and Ankle Surgery" },
+        { "label": "Joint Replacement Surgery (Adult Reconstructive Surgery)", "value": "Joint Replacement Surgery (Adult Reconstructive Surgery)" }
+    ],
+    "Pathology": [
+        { "label": "Hematopathology", "value": "Hematopathology" },
+        { "label": "Cytopathology", "value": "Cytopathology" },
+        { "label": "Forensic Pathology", "value": "Forensic Pathology" },
+        { "label": "Molecular Genetic Pathology", "value": "Molecular Genetic Pathology" },
+        { "label": "Dermatopathology", "value": "Dermatopathology" },
+        { "label": "Neuropathology", "value": "Neuropathology" },
+        { "label": "Pediatric Pathology", "value": "Pediatric Pathology" }
+    ],
+    "Pediatrics": [
+        { "label": "Pediatric Cardiology", "value": "Pediatric Cardiology" },
+        { "label": "Pediatric Endocrinology", "value": "Pediatric Endocrinology" },
+        { "label": "Pediatric Gastroenterology", "value": "Pediatric Gastroenterology" },
+        { "label": "Pediatric Hematology/Oncology", "value": "Pediatric Hematology/Oncology" },
+        { "label": "Neonatology", "value": "Neonatology" },
+        { "label": "Pediatric Infectious Diseases", "value": "Pediatric Infectious Diseases" },
+        { "label": "Pediatric Neurology", "value": "Pediatric Neurology" },
+        { "label": "Pediatric Pulmonology", "value": "Pediatric Pulmonology" },
+        { "label": "Adolescent Medicine", "value": "Adolescent Medicine" }
+    ],
+    "Physical Medicine & Rehabilitation (PM&R)": [
+        { "label": "Pain Medicine", "value": "Pain Medicine" },
+        { "label": "Spinal Cord Injury Medicine", "value": "Spinal Cord Injury Medicine" },
+        { "label": "Sports Medicine", "value": "Sports Medicine" },
+        { "label": "Pediatric Rehabilitation Medicine", "value": "Pediatric Rehabilitation Medicine" },
+        { "label": "Brain Injury Medicine", "value": "Brain Injury Medicine" }
+    ],
+    "Plastic Surgery": [
+        { "label": "Hand Surgery", "value": "Hand Surgery" },
+        { "label": "Craniofacial Surgery", "value": "Craniofacial Surgery" },
+        { "label": "Burn Surgery", "value": "Burn Surgery" },
+        { "label": "Aesthetic Surgery", "value": "Aesthetic Surgery" },
+        { "label": "Reconstructive Surgery", "value": "Reconstructive Surgery" }
+    ],
+    "Psychiatry": [
+        { "label": "Child and Adolescent Psychiatry", "value": "Child and Adolescent Psychiatry" },
+        { "label": "Geriatric Psychiatry", "value": "Geriatric Psychiatry" },
+        { "label": "Forensic Psychiatry", "value": "Forensic Psychiatry" },
+        { "label": "Addiction Psychiatry", "value": "Addiction Psychiatry" },
+        { "label": "Consultation-Liaison Psychiatry", "value": "Consultation-Liaison Psychiatry" },
+        { "label": "Sleep Medicine", "value": "Sleep Medicine" }
+    ],
+    "Radiology": [
+        { "label": "Neuroradiology", "value": "Neuroradiology" },
+        { "label": "Interventional Radiology", "value": "Interventional Radiology" },
+        { "label": "Pediatric Radiology", "value": "Pediatric Radiology" },
+        { "label": "Breast Imaging", "value": "Breast Imaging" },
+        { "label": "Musculoskeletal Radiology", "value": "Musculoskeletal Radiology" },
+        { "label": "Cardiothoracic Radiology", "value": "Cardiothoracic Radiology" }
+    ]
+}
