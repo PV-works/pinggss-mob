@@ -4,9 +4,15 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import LoginScreen from '../screens/auth/LoginScreen';
 // import SignUpScreen from '../screens/auth/SignUpScreen';
 // import VerificationCodeScreen from '../screens/auth/VerificationCodeScreen';
-// import ForgotPasswordScreen from '../screens/auth/ForgotPasswordScreen';
 // import ResetPasswordScreen from '../screens/auth/ResetPasswordScreen';
 import { AuthScreens } from '../constants/Screens';
+import ForgotPasswordScreen from '../screens/auth/ForgotPassword';
+import OTPScreen from '../screens/auth/Verification';
+import VerificationCodeScreen from '../screens/auth/Verification';
+import WelcomeScreen from '../screens/auth/Welcome';
+import CategoryScreen from '../screens/auth/Category';
+import SettingScreen from '../screens/settings/settings';
+import AccountDetailScreen from '../screens/settings/accountDetails';
 // import WelcomeScreen from '../screens/auth/WelcomeScreen';
 // import AuthNavHeaderBackButton from '../components/AuthNavHeaderBackButton';
 // import SetPasswordScreen from '../screens/auth/SetPasswordScreen';
@@ -40,6 +46,9 @@ export type AuthStackParamList = {
     userId: string;
   };
   InviteFriends: undefined;
+  Category: undefined;
+  Setting: undefined;
+  AccountDetail: undefined;
 };
 
 const Stack = createNativeStackNavigator<AuthStackParamList>();
@@ -59,6 +68,56 @@ const AuthNavigator = () => (
       options={{
         ...screenOptionsWithBackButton,
         headerShown: false, // Hides the back arrow and the header
+      }}
+    />
+    <Stack.Screen
+      name={AuthScreens.ForgotPassword}
+      component={ForgotPasswordScreen}
+      options={{
+        ...screenOptionsWithBackButton,
+        headerShown: false, // Hides the
+        //  back arrow and the header
+      }}
+    />
+    <Stack.Screen
+      name={AuthScreens.VerificationCode}
+      component={VerificationCodeScreen}
+      options={{
+        ...screenOptionsWithBackButton,
+        headerShown: false, // Hides the
+        //  back arrow and the header
+      }}
+    />
+    <Stack.Screen
+      name={AuthScreens.Welcome}
+      component={WelcomeScreen}
+      options={{
+        ...screenOptionsWithBackButton,
+        headerShown: false, // Hides the header
+      }}
+    />
+    <Stack.Screen
+      name={AuthScreens.Category}
+      component={CategoryScreen}
+      options={{
+        ...screenOptionsWithBackButton,
+        headerShown: true, // Hides the header
+      }}
+    />
+    <Stack.Screen
+      name={AuthScreens.Setting}
+      component={SettingScreen}
+      options={{
+        ...screenOptionsWithBackButton,
+        headerShown: true, // Hides the header
+      }}
+    />
+    <Stack.Screen
+      name={AuthScreens.AccountDetail}
+      component={AccountDetailScreen}
+      options={{
+        ...screenOptionsWithBackButton,
+        headerShown: true, // Hides the header
       }}
     />
     {/* <Stack.Screen
