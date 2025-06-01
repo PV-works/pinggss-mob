@@ -1,3 +1,7 @@
+const {
+  withNativeWind: withNativeWind
+} = require("nativewind/metro");
+
 const { getDefaultConfig } = require('expo/metro-config');
 
 module.exports = (() => {

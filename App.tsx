@@ -1,4 +1,6 @@
 import React from 'react';
+import "@/global.css";
+import { GluestackUIProvider } from "@/components/ui/gluestack-ui-provider";
 import { StyleSheet } from 'react-native';
 import { ThemeProvider } from './app/core/ThemeContext';
 import { NavigationContainer } from '@react-navigation/native';
@@ -124,30 +126,30 @@ const App = () => {
   };
 
   return (
-    <Provider store={store}>
-      <PersistGate loading={null} persistor={persistor}>
-        <GestureHandlerRootView style={styles.flexOne}>
-          <ApplicationProvider {...eva} theme={eva.light}>
-            <SafeAreaProvider initialMetrics={initialWindowMetrics}>
-              <IconRegistry icons={EvaIconsPack} />
-              <ThemeProvider>
-                  <ContextsProvider>
-                    <NavigationContainer
-                      // linking={linking}
-                      ref={NavigationHelper.navigationRef}
-                      onStateChange={(_state) => {
-                        // TODO: Trigger when State change (Screen changed, options changed,...)
-                      }}
-                    >
-                      <AppNavigator />
-                    </NavigationContainer>
-                  </ContextsProvider>
-              </ThemeProvider>
-            </SafeAreaProvider>
-          </ApplicationProvider>
-        </GestureHandlerRootView>
-      </PersistGate>
-    </Provider>
+    <GluestackUIProvider mode="light"><Provider store={store}>
+        <PersistGate loading={null} persistor={persistor}>
+          <GestureHandlerRootView style={styles.flexOne}>
+            <ApplicationProvider {...eva} theme={eva.light}>
+              <SafeAreaProvider initialMetrics={initialWindowMetrics}>
+                <IconRegistry icons={EvaIconsPack} />
+                <ThemeProvider>
+                    <ContextsProvider>
+                      <NavigationContainer
+                        // linking={linking}
+                        ref={NavigationHelper.navigationRef}
+                        onStateChange={(_state) => {
+                          // TODO: Trigger when State change (Screen changed, options changed,...)
+                        }}
+                      >
+                        <AppNavigator />
+                      </NavigationContainer>
+                    </ContextsProvider>
+                </ThemeProvider>
+              </SafeAreaProvider>
+            </ApplicationProvider>
+          </GestureHandlerRootView>
+        </PersistGate>
+      </Provider></GluestackUIProvider>
   );
 }
 

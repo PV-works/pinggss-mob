@@ -41,16 +41,15 @@ const LoginScreen = () => {
 
     return (
         <ScrollView>
-            <View style={{ backgroundColor: '#F89AEE', height: '50%', borderRadius: 50, borderWidth: 1, borderColor: '#FFF', marginVertical: 30  }}>
+            <View style={{ flex: 1, backgroundColor: '#F89AEE', borderRadius: 50, borderWidth: 1, borderColor: '#FFF', margin: 30, justifyContent: 'center', alignItems: 'center' }}>
 
-            </View>
-            <View style={{flex:1,justifyContent: 'center'}}>
-                <Text style={{color: '#464444', fontSize: 35}}> Discover Your</Text>
-                <Text style={{color: '#464444'}}>Own Dream</Text>
-            </View>
-                <View style={{flex: 1}}>
+                <View>
+                    <Text style={{ color: '#464444', fontSize: 35 }}> Discover Your</Text>
+                    <Text style={{ color: '#464444' }}>Own Dream</Text>
+                </View>
+                <View >
 
-                    <View style={[{ backgroundColor: '#FFF', marginVertical: 80, marginHorizontal: 20, borderColor: '#FFF', borderWidth: 1, borderRadius: 20}]}>
+                    <View style={[{ backgroundColor: '#FFF', marginVertical: 80, marginHorizontal: 20, borderColor: '#FFF', borderWidth: 1, borderRadius: 20 }]}>
 
                         <View style={styles.mainSection}>
                             <View style={styles.logoContainer}>
@@ -98,6 +97,7 @@ const LoginScreen = () => {
                         </View>
                     </View>
                 </View>
+            </View>
         </ScrollView>
     );
 };
