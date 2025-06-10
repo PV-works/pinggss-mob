@@ -1,10 +1,12 @@
 import { NavigationProp, useNavigation } from '@react-navigation/native';
 import * as SecureStore from 'expo-secure-store';
 import React, { memo, useState } from 'react';
-import { Alert, ScrollView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { Alert, ScrollView, StyleSheet, Text, TouchableOpacity, View, TouchableWithoutFeedback, Image, KeyboardAvoidingView, Platform } from 'react-native';
 import { AuthScreens, MainScreens } from '../../constants/Screens';
 import { themes } from '../../core/theme';
 import { useAppDispatch } from '../../store/hooks/useApp';
+import { Icon, Input, CheckBox, TabView, Tab, Layout } from '@ui-kitten/components';
+import Icon1 from '../../assets/icon1.png';
 
 type LoginScreenNavigationProp = NavigationProp<
     Record<string, object | undefined>,
@@ -12,23 +14,38 @@ type LoginScreenNavigationProp = NavigationProp<
 >;
 
 const LoginScreen = () => {
-    // Set up Navigator
     const navigation = useNavigation<LoginScreenNavigationProp>();
     const dispatch = useAppDispatch();
     const [isLoading, setIsLoading] = useState(false);
+    const [selectedIndex, setSelectedIndex] = useState(0);
 
-    /**
-     * Handles the login process when the login button is pressed.
-     * @param {TLoginSchema} form - The login form data containing email and password.
-     * @returns None
-     */
+    // States for email, password, and name
+    const [email, setEmail] = useState('');
+    const [value, setValue] = useState('');
+    const [name, setName] = useState('');
+    const [secureTextEntry, setSecureTextEntry] = useState(true);
+    const [checked, setChecked] = useState(false);
+
+    // Helper to validate email (trimming spaces)
+    const isValidEmail = (email: string): boolean => {
+        const trimmedEmail = email.trim();
+        const re = /\S+@\S+\.\S+/;
+        return re.test(trimmedEmail);
+    };
+
+    // For login: email must not be empty, be valid and password >=6 characters.
+    const isLoginValid = email.trim() !== '' && isValidEmail(email) && value.trim().length >= 6;
+    // For register: name must be non-empty in addition to login criteria.
+    const isRegisterValid = name.trim() !== '' && email.trim() !== '' && isValidEmail(email) && value.trim().length >= 6;
+
+    const disableButton = isLoading || (selectedIndex === 0 ? !isLoginValid : !isRegisterValid);
+
     const onLoginPressed = async (form: any) => {
         const { email, password } = form;
-
         setIsLoading(true);
-
         try {
-            console.log("LOGIN")
+            console.log("LOGIN");
+            // Proceed with login
         } catch (error) {
             setIsLoading(false);
             const errorMessage = (error as Error).message || 'An unknown error occurred';
@@ -37,163 +54,191 @@ const LoginScreen = () => {
         }
     };
 
-    const disableButton = isLoading;
+    const toggleSecureEntry = (): void => {
+        setSecureTextEntry(!secureTextEntry);
+    };
+
+    const renderIcon = (props: any): React.ReactElement => (
+        <TouchableWithoutFeedback onPress={toggleSecureEntry}>
+            <Icon {...props} name={secureTextEntry ? 'eye-off' : 'eye'} />
+        </TouchableWithoutFeedback>
+    );
+    const emailIcon = (props: any): React.ReactElement => (
+        <TouchableWithoutFeedback onPress={toggleSecureEntry}>
+            <Icon {...props} name={'email'} />
+        </TouchableWithoutFeedback>
+    );
+    const nameIcon = (props: any): React.ReactElement => (
+        <TouchableWithoutFeedback onPress={toggleSecureEntry}>
+            <Icon {...props} name={'person'} />
+        </TouchableWithoutFeedback>
+    );
+
+    const renderTitle = (title: any, index: number) => (
+        <Text style={{
+            color: selectedIndex === index ? '#9B59B6' : '#7F8C8D',
+            fontWeight: 'bold',
+            fontSize: 16,
+        }}>
+            {title}
+        </Text>
+    );
 
     return (
-        <ScrollView>
-            <View style={{ flex: 1, backgroundColor: '#F89AEE', borderRadius: 50, borderWidth: 1, borderColor: '#FFF', margin: 30, justifyContent: 'center', alignItems: 'center' }}>
+        <KeyboardAvoidingView
+            style={{ flex: 1 }}
+            contentContainerStyle={{ backgroundColor: '#70f8ff25', height: '100%', flex: 1 }}
+            behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+            keyboardVerticalOffset={100} // adjust as needed
+        >
+            <Image source={Icon1} style={{ width: '25%', height: 85, marginBottom: 30, marginTop: 30, alignSelf: 'center' }} />
+            <Text style={{ fontFamily: 'Trebuchet MS', textAlign: 'center', fontSize: 20, fontWeight: '900', color: '#2C3E50' }}>
+                Welcome to Pinggss
+            </Text>
+            <Text style={{ fontFamily: 'Trebuchet MS', textAlign: 'center', fontSize: 14, marginBottom: 10, marginTop: 10, color: '#7F8C8D' }}>
+                By signing in you are agreeing our
+            </Text>
+            <Text style={{ fontFamily: 'Trebuchet MS', textAlign: 'center', fontSize: 14, color: '#2C3E50' }}>
+                Terms and Privacy Policy
+            </Text>
 
-                <View>
-                    <Text style={{ color: '#464444', fontSize: 35 }}> Discover Your</Text>
-                    <Text style={{ color: '#464444' }}>Own Dream</Text>
-                </View>
-                <View >
-
-                    <View style={[{ backgroundColor: '#FFF', marginVertical: 80, marginHorizontal: 20, borderColor: '#FFF', borderWidth: 1, borderRadius: 20 }]}>
-
-                        <View style={styles.mainSection}>
-                            <View style={styles.logoContainer}>
-                                <Text style={styles.logoText}>Pinggss</Text>
-                            </View>
-                            <Text style={styles.signInText}>Log In</Text>
-
-                            <View
-                                style={{
-                                    flexDirection: 'column',
-                                    gap: 12,
-                                    alignItems: 'flex-end',
-                                    marginBottom: 12,
-                                }}
-                            >
-
-                                <View style={styles.forgotPassword}>
-                                    <TouchableOpacity onPress={() => navigation.navigate(AuthScreens.ForgotPassword)}>
-                                        <Text style={styles.forgotPasswordText}>Forgot password?</Text>
-                                    </TouchableOpacity>
-                                </View>
-                            </View>
-                            <TouchableOpacity
-                                onPress={onLoginPressed}
-                                disabled={disableButton}
-                                style={styles.loginButton}>
-                                <Text>Log In with Email</Text>
+            <TabView
+                indicatorStyle={{ backgroundColor: '#9B59B6' }}
+                selectedIndex={selectedIndex}
+                onSelect={(index: number) => setSelectedIndex(index)}
+                style={{ marginTop: 20 }}
+            >
+                <Tab selected={selectedIndex === 0} title={() => renderTitle('LOGIN', 0)}>
+                    <Layout style={styles.tabContainer}>
+                        <Input
+                            style={styles.input}
+                            value={email}
+                            label='Email'
+                            placeholder='Email Address'
+                            onChangeText={(text: string) => setEmail(text)}
+                            accessoryRight={emailIcon}
+                        />
+                        <Input
+                            value={value}
+                            style={styles.input}
+                            label='Password'
+                            placeholder='Password'
+                            accessoryRight={renderIcon}
+                            secureTextEntry={secureTextEntry}
+                            onChangeText={(nextValue: string) => setValue(nextValue)}
+                        />
+                        <View style={{ alignItems: 'flex-end', width: '100%' }}>
+                            <TouchableOpacity onPress={() => {
+                                console.log("Forgot Password");
+                                navigation.navigate(AuthScreens.ForgotPassword);
+                            }}>
+                                <Text style={{ textDecorationLine: 'underline', color: '#8174a0', margin: 12, padding: 10 }}>
+                                    Forgot Password?
+                                </Text>
                             </TouchableOpacity>
-                            <View style={styles.separatorContainer}>
-                                <View style={styles.separatorLine} />
-                                <Text style={styles.separatorText}>or</Text>
-                                <View style={styles.separatorLine} />
-                            </View>
-
-                            <View style={styles.dontHaveAccContainer}>
-                                <Text style={styles.dontHaveAccText}>Don’t have an account?</Text>
-                                <TouchableOpacity
-                                    onPress={() => {
-                                        navigation.navigate(AuthScreens.SignUp);
-                                    }}
-                                >
-                                    <Text style={styles.dontHaveAccLink}>Sign Up</Text>
-                                </TouchableOpacity>
-                            </View>
                         </View>
-                    </View>
-                </View>
-            </View>
-        </ScrollView>
+                        <TouchableOpacity
+                            style={[styles.button, { backgroundColor: disableButton ? '#ccc' : '#707aff' }]}
+                            onPress={() => { console.log("Login") }}
+                            disabled={disableButton}
+                        >
+                            <Text style={{ margin: 12, padding: 10, color: '#fff', fontWeight: '700' }}>
+                                Login
+                            </Text>
+                        </TouchableOpacity>
+                        <Text style={{ fontFamily: 'Trebuchet MS', textAlign: 'center', fontSize: 14, marginBottom: 10, marginTop: 10, color: '#7F8C8D' }}>
+                            or
+                        </Text>
+                        <TouchableOpacity
+                            style={{
+                                borderWidth: 1,
+                                borderRadius: 20,
+                                backgroundColor: '#fff',
+                                width: '100%',
+                                alignItems: 'center',
+                            }}
+                            onPress={() => {
+                                navigation.navigate(AuthScreens.Welcome);
+                                console.log("Guest");
+                            }}
+                        >
+                            <Text style={{ margin: 12, padding: 10, color: '#000', fontWeight: '700' }}>
+                                Continue as Guest
+                            </Text>
+                        </TouchableOpacity>
+                    </Layout>
+                </Tab>
+                <Tab selected={selectedIndex === 1} title={() => renderTitle('REGISTER', 1)}>
+                    <Layout style={styles.tabContainer}>
+                        <Input
+                            style={styles.input}
+                            value={name}
+                            label='Name'
+                            placeholder='Full Name'
+                            onChangeText={(text: string) => setName(text)}
+                            accessoryRight={nameIcon}
+                        />
+                        <Input
+                            style={styles.input}
+                            value={email}
+                            label='Email'
+                            placeholder='Email Address'
+                            onChangeText={(text: string) => setEmail(text)}
+                            accessoryRight={emailIcon}
+                        />
+                        <Input
+                            value={value}
+                            style={styles.input}
+                            label='Password'
+                            placeholder='Password'
+                            accessoryRight={renderIcon}
+                            secureTextEntry={secureTextEntry}
+                            onChangeText={(nextValue: string) => setValue(nextValue)}
+                        />
+                        <CheckBox
+                            style={{ margin: 12, padding: 10 }}
+                            checked={checked}
+                            onChange={() => setChecked(!checked)}
+                        >
+                            Remember Password
+                        </CheckBox>
+                        <TouchableOpacity
+                            style={[styles.button, { backgroundColor: disableButton ? '#ccc' : '#707aff' }]}
+                            onPress={() => { console.log("Register") }}
+                            disabled={disableButton}
+                        >
+                            <Text style={{ margin: 12, padding: 10, color: '#fff', fontWeight: '700' }}>
+                                Register
+                            </Text>
+                        </TouchableOpacity>
+                    </Layout>
+                </Tab>
+            </TabView>
+        </KeyboardAvoidingView>
     );
 };
 
 const styles = StyleSheet.create({
-    mainSection: {
-        height: '100%',
-        paddingHorizontal: 20,
-        marginVertical: 50,
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'center'
-    },
-
-    logoContainer: {
-        display: 'flex',
-        flexDirection: 'row',
-        alignItems: 'center',
-        width: '100%',
-        gap: 8,
-    },
-    logoText: {
-        fontSize: 22,
-        fontWeight: '600',
-        color: themes.light.primary,
-        display: 'flex',
-    },
-    signInText: {
-        fontSize: 32,
-        color: themes.light.black,
-        width: '100%',
-        fontWeight: '500',
-        marginVertical: 24,
-    },
-    // Forgot password
-    forgotPassword: {
-        width: '100%',
-        alignItems: 'flex-end',
-        marginBottom: 24,
-    },
-    forgotPasswordText: {
-        fontSize: 16,
-        fontWeight: '700',
-        color: themes.light.primary,
-        textDecorationLine: 'underline',
-    },
-    // Separator styles
-    separatorContainer: {
-        flexDirection: 'row',
-        alignItems: 'center',
-        marginVertical: 16, // Adjust this value as needed
-    },
-    separatorLine: {
-        flex: 1,
-        height: 1,
-        backgroundColor: '#ccc', // Line color
-    },
-    separatorText: {
-        marginHorizontal: 8,
-        fontSize: 16,
-        color: '#666', // Text color
-        fontWeight: 'bold',
-    },
-    // Extra styles
-    row: {
-        flexDirection: 'row',
-        marginTop: 4,
-    },
-    label: {
-        color: themes.light.secondary,
-    },
-
-    loginButton: {
-        height: 45,
-    },
-    // Don't have account
-    dontHaveAccContainer: {
-        display: 'flex',
-        marginTop: 24,
-        flexDirection: 'row',
-        width: '100%',
-        gap: 2,
+    tabContainer: {
         alignItems: 'center',
         justifyContent: 'center',
-        fontSize: 18,
     },
-    dontHaveAccText: {
-        fontSize: 18,
-        color: '#596C80',
+    input: {
+        height: 47,
+        margin: 12,
+        marginBottom: 25,
+        borderWidth: 1,
+        padding: 10,
+        backgroundColor: '#F9F9F9',
+        borderRadius: 9,
     },
-    dontHaveAccLink: {
-        color: themes.light.primary,
-        fontWeight: '600',
-        fontSize: 18,
-        textDecorationLine: 'underline',
+    button: {
+        borderWidth: 1,
+        borderRadius: 20,
+        width: '100%',
+        alignItems: 'center',
     },
+    // ... other styles remain unchanged
 });
 
-export default memo(LoginScreen);
+export default LoginScreen;
